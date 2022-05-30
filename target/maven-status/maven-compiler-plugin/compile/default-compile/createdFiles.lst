@@ -1,0 +1,4 @@
+com\exercise\SprintApplication.class
+com\exercise\controller\CoinController.class
+com\exercise\repository\CoinRepository.class
+com\exercise\model\Coin.class
